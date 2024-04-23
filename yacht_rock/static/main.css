@@ -1,0 +1,56 @@
+/* leave some spaace for body */
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(47, 158, 121); 
+}
+
+button {
+    background-color:aquamarine;
+    color: white; 
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+nav {
+    height: 70px;
+}
+
+nav > button {
+    width: 200px;
+}
+
+header {
+    background-image: url('./images/Hero_A.jpg'); 
+    height: 700px;
+    background-repeat: no-repeat;
+    width: 100vw;
+    background-size: cover;
+}
+
+.why-our-shirts {
+    height: 300px;
+    background-color:aquamarine;
+    width: 250px;
+}
+
+.why-our-shirts > img {
+    height: 100%;
+    width: 100%;
+}
+
+
+.the-goods {
+    color: white;
+    background-color:aquamarine; 
+    height: 700px;
+}
+
+.shirt-4-sale {
+    background-color: white;
+    color: grey; 
+}
